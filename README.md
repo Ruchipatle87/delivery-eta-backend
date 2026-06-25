@@ -1,5 +1,8 @@
 # Delivery ETA Backend
 
+**Live API:** https://delivery-eta-api-zbsz.onrender.com/docs
+**Live App:** https://delivery-eta-frontend.vercel.app
+
 A FastAPI service that serves a self-trained machine learning model predicting food delivery time, based on real-world delivery operations data.
 
 This is the backend half of a two-part project. See the frontend here: [delivery-eta-frontend](https://github.com/Ruchipatle87/delivery-eta-frontend)
